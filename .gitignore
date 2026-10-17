@@ -8,12 +8,6 @@ backend/__pycache__/
 backend/venv/
 backend/.env
 
-# Data (duże pliki, sekrety)
-data/raw/*
-!data/raw/.gitkeep
-data/processed/*
-!data/processed/.gitkeep
-
 # Ogólne
 .DS_Store
 *.log
